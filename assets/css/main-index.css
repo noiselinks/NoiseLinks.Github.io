@@ -1990,7 +1990,7 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: rgb(44, 163, 162);
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2096,7 +2096,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("https://c1.staticflickr.com/1/719/32951515571_f7d80fa7ab_o.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
