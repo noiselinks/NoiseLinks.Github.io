@@ -2089,7 +2089,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("https://c2.staticflickr.com/4/3795/33036811652_9c245bd0c8_o.jpg");
+		background-image: url("https://c1.staticflickr.com/1/576/32351221754_16e8cea2df_o.jpg");
 		background-size: cover;
 		background-position: center center;
 		color: #fff;
@@ -2164,7 +2164,7 @@
 	}
 
 	#nav > ul:before, #nav > ul:after {
-		display:none !important; 
+		display:none !important;
 	}
 
 		body.homepage #header h1 {
