@@ -2089,7 +2089,7 @@
 
 	#header {
 		position: relative;
-		background-image: url("https://c1.staticflickr.com/1/719/32951515571_f7d80fa7ab_o.jpg");
+		background-image: url("https://c2.staticflickr.com/4/3795/33036811652_9c245bd0c8_o.jpg");
 		background-size: cover;
 		background-position: center center;
 		color: #fff;
@@ -2159,8 +2159,12 @@
 		}
 
 	body.homepage #header {
-		height: 100vh;
-		min-height: 40em;
+		height: 80vh;
+		min-height: 30em;
+	}
+
+	#nav > ul:before, #nav > ul:after {
+		display:none !important; 
 	}
 
 		body.homepage #header h1 {
